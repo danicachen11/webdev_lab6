@@ -1,3 +1,12 @@
+body { 
+  background-image: url("../images/black.jpg"); 
+}
+
+#content-wrapper{ 
+  background-image: url("../images/repeating.png");
+  float: left;
+}
+
 #header h1 { 
   position: absolute;
   left: 420px;
@@ -19,7 +28,6 @@
   background-color: #333;
 }
 
-h2 strong
 
 .image-r { 
   float: right;
@@ -29,4 +37,3 @@ h2 strong
   background-color: white;
   margin: 10px 0 10px 20px;
 }
-
