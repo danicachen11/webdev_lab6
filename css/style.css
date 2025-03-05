@@ -1,13 +1,4 @@
-body
-#page-wrapper
-#header
-#header h1
-#header a#logo1 img
-#header #toplink
-#footer
-#content-wrapper
-#main-content
-h2 strong
+
 .image-r { 
   float: right;
   border: 2px solid blue;
@@ -16,11 +7,10 @@ h2 strong
   background-color: white;
   margin: 10px 0 10px 20px;
 }
-#side-content
-#main-nav
-#main-nav ul
-#main-nav ul li
-#main-nav ul li a
-#main-nav ul li a:hover
-#center
-strong
+
+strong { 
+  font-size: 2em;
+  font-weight: 900;
+}
+
+
